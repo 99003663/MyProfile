@@ -55,8 +55,6 @@ LTTS Intern
 [Github Repositories](https://github.com/99003508)
 
 ## Projects:
+  [DemoKart WebAPP](hhttps://dev.azure.com/parimiyaminisaraswathi/99003663_DemoKart_App)
+  [Embadded Lab Management System API](https://dev.azure.com/parimiyaminisaraswathi/99003663_Emb_Lab_Mgmt)
 
-1.  [DemoKart Console APP](https://dev.azure.com/rishabhsoni0145/99003508_DemoKart_App)
-2.  [DemoKart WebAPP](hhttps://dev.azure.com/parimiyaminisaraswathi/99003663_DemoKart_App)
-3.  [Embadded Lab Management System API](https://dev.azure.com/rishabhsoni0145/99003808_Emb_Lab_Mgmt)
-4.  [Embadded Lab Management System WebApp](https://dev.azure.com/rishabhsoni0145/99003508_Embd_Lab_Mgnt_MVC)
