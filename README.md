@@ -39,11 +39,9 @@ LTTS Intern
 ## Microsoft Badges 
 ![image](https://user-images.githubusercontent.com/78896013/112272001-9f969000-8ca1-11eb-9a9e-d0131d6de775.png)
 ![image](https://user-images.githubusercontent.com/78896013/112272088-c05ee580-8ca1-11eb-8261-85ba606dede2.png)
+![image](https://user-images.githubusercontent.com/78896013/112272387-251a4000-8ca2-11eb-9411-a4d24ecef151.png)
 
 
-
-
-![Badges_and_Trophies](https://user-images.githubusercontent.com/78849691/111939361-15f49000-8af2-11eb-913a-7bbb5ff89d38.JPG)
 
 ## Certification
 
