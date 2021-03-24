@@ -50,7 +50,7 @@ LTTS Intern
 
 ## Links
 
-[Azure Repositories](https://dev.azure.com/rishabhsoni0145)
+[Azure Repositories](https://dev.azure.com/parimiyaminisaraswathi/)
 
 [Github Repositories](https://github.com/99003508)
 
