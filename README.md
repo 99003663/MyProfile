@@ -34,7 +34,7 @@ LTTS Intern
 # Badges
 
 ## Hackerrank Badges
-![Capture](https://user-images.githubusercontent.com/78849691/111938939-0f194d80-8af1-11eb-98aa-1c6867392135.JPG)
+![image](https://user-images.githubusercontent.com/78896013/112271864-77a72c80-8ca1-11eb-9d53-6c0f04f384a0.png)
 
 ## Microsoft Badges 
 [Achievements](https://docs.microsoft.com/en-us/users/rishabhsoni-1968/achievements)
