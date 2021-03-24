@@ -1,12 +1,11 @@
-# Rishabh Soni 
-99003508  
+# Parimi Yamini Saraswathi
+99003663 
 LTTS Intern
 
 ## Technologies Learned:
 
-1. SDLC 
-2. C# (Programming) 
-3. TSQL (DataBase) 
+ C# (Programming) 
+
 
 ## Frameworks:
 
@@ -14,8 +13,8 @@ LTTS Intern
 2. ADO.NET Framework 
 3. LinQ 
 4. Entity Framework 
-5. Web API Framework 
-6. MVC Framework 
+5. ASP.NET Web API Framework 
+6. ASP.NET MVC Framework 
 7. Layered Architecture(DB first Approach) 
 
 ## Tools:
