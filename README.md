@@ -1,6 +1,8 @@
 # Parimi Yamini Saraswathi
 99003663 
 LTTS Intern
+E-Mail : parimi.yaminisaraswathi@ltts.com
+Contact Details : 7995467895
 
 ## Technologies Learned:
 
