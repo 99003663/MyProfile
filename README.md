@@ -35,7 +35,7 @@ Contact Details : 7995467895
 # Badges
 
 ## Hackerrank Badges
-![image](https://user-images.githubusercontent.com/78896013/112271864-77a72c80-8ca1-11eb-9d53-6c0f04f384a0.png)
+![image](https://user-images.githubusercontent.com/78896013/114859578-91531400-9e08-11eb-8838-1ddd5ee11f9f.png)
 
 ## Microsoft Badges 
 ![image](https://user-images.githubusercontent.com/78896013/112272001-9f969000-8ca1-11eb-9a9e-d0131d6de775.png)
