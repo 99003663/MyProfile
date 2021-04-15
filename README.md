@@ -47,6 +47,8 @@ Contact Details : 7995467895
 ## Certification
 
 ![image](https://user-images.githubusercontent.com/78896013/112272495-47ac5900-8ca2-11eb-9af7-217b8bdc16ad.png)
+![image](https://user-images.githubusercontent.com/78896013/114859790-d70fdc80-9e08-11eb-8156-098e431d2cfa.png)
+
 
 
 ## Links
